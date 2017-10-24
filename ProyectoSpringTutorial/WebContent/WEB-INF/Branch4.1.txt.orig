@@ -1,0 +1,11 @@
+Este es un fichero del Branch4.1
+<<<<<<< HEAD
+Agregando linea desde el Branch 4.0
+Agrego linea en el Branch 4.1
+
+Agregando otra linea 2 desde el Branch 4.0
+=======
+Agrego linea en el Branch 4.1
+
+Agregando otra linea 2 desde el Branch 4.1
+>>>>>>> Branch4.1
