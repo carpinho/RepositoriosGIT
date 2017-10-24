@@ -1,5 +1,6 @@
 // Modificacion Pepito 1
 // Modificacion Juanito 1
+// Modificacion Pepito 2
 package com.victor.elliott.humala.controlador;
 
 import org.springframework.stereotype.Controller;
@@ -37,3 +38,4 @@ public class ComponenteController {
 	}
 	
 }
+// Modificacion Pepito 2
