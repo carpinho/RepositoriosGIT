@@ -136,7 +136,7 @@ public class HospitalesController {
 	@RequestMapping
 	public String listaPerceptoresForm(ModelMap model) {
 		SearchPerceptorCriteria searchForm = new SearchPerceptorCriteria();
-
+		//Agregando 2 desde Master Remoto
 		if (!securityService.isAdministrador()) {
 			try {
 
